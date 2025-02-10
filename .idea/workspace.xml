@@ -4,38 +4,199 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21e8ed67-8722-4724-b7e1-bbf07cd16e1b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="21e8ed67-8722-4724-b7e1-bbf07cd16e1b" name="Changes" comment="v1 layout">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReportCSS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReportConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jssscripts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/ui/config/grid/BrowserStackCapabilitiesConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/ui/config/grid/IGridCapabilitiesConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/DataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/DateTimeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/EnvironmentPropertiesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/ExtentReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/MobileEmulationUserAgentConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/RestAssuredAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/WaitUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augmentedframework/utils/WebDriverOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/augmented-test-automation-framework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="create-common-utils-and-pom-dependencies" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sabatoy/augmented-test-automation-framework.git",
-    "accountId": "ec550f1e-3339-4c7c-b5ef-1951ec1a4c84"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sabatoy&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sabatoy/augmented-test-automation-framework.git&quot;,
+    &quot;accountId&quot;: &quot;ec550f1e-3339-4c7c-b5ef-1951ec1a4c84&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2shPUc6HetwQdzAYT7UzwyfmyTp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "create__project__layout",
-    "last_opened_file_path": "/Users/sabato/Workspace/augmented-test-automation-framework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/sabato/Workspace/augmented-test-automation-framework/src/test/Demo.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/sabato/Workspace/augmented-test-automation-framework/src/test/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/sabato/Workspace/augmented-test-automation-framework/testxml/Demo.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Test.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;create-common-utils-and-pom-dependencies&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sabato/Workspace/augmented-test-automation-framework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4597701&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.augmentedframework.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.augmentedframework.utils.Test" />
+      <module name="augmented-test-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.augmentedframework.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/Logs" is_save="true" />
+      <module name="augmented-test-automation-framework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.augmentedframework.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.augmentedframework.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.augmentedframework.utils.Test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sabato/Workspace/augmented-test-automation-framework/src/test/Demo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="augmented-test-automation-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/Demo.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sabato/Workspace/augmented-test-automation-framework/src/test/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="augmented-test-automation-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sabato/Workspace/augmented-test-automation-framework/testxml/Demo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="augmented-test-automation-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testxml/Demo.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="TestNG./Users/sabato/Workspace/augmented-test-automation-framework/src/test/Demo.xml" />
+      <item itemvalue="TestNG./Users/sabato/Workspace/augmented-test-automation-framework/src/test/testng.xml" />
+      <item itemvalue="TestNG./Users/sabato/Workspace/augmented-test-automation-framework/testxml/Demo.xml" />
+      <item itemvalue="TestNG.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="TestNG./Users/sabato/Workspace/augmented-test-automation-framework/src/test/testng.xml" />
+        <item itemvalue="TestNG./Users/sabato/Workspace/augmented-test-automation-framework/src/test/Demo.xml" />
+        <item itemvalue="TestNG./Users/sabato/Workspace/augmented-test-automation-framework/testxml/Demo.xml" />
+        <item itemvalue="TestNG.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +206,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738904849908</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1 layout">
+      <option name="closed" value="true" />
+      <created>1738909445564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738909445564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1 layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1 layout" />
   </component>
 </project>
